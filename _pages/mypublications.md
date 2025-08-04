@@ -1,5 +1,5 @@
 ---
-permalink: /publications/
+permalink: /notpublications/
 title: "Publications"
 author_profile: true
 redirect_from: 
