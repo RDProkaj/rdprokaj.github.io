@@ -13,7 +13,7 @@ I completed my PhD in mathematics at the Budapest University of Technology and E
 My field of research is Fractal Geometry. A set is called a fractal if it has a complex, detailed structure at arbitrarily small scales. These intricate sets often arise in nature as the invariant set of a chaotic dynamical system or the attractor of an iterated function system. In my research, I mostly focus on the dimension theory of fractal sets and measures.
 
 
-## Contact 
+# Contact 
 
 __Email__: Rudolf "dot" Prokaj "at" unt "dot" edu 
 
