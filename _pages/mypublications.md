@@ -32,4 +32,4 @@ __Earth System Dynamics__ 11.3: 603-615.
 
 ## PhD dissertation
 
-On the dimension theory of piecewise linear iterated function systems
+[On the dimension theory of piecewise linear iterated function systems](https://rdprokaj.github.io/files/Dissertation.pdf)
