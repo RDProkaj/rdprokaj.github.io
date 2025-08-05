@@ -7,10 +7,12 @@ redirect_from:
 ---
 
 
-### Current semester (Fall 2025): MATH 1780 (Probability models)
+## Current semester 
+In the __fall of 2025__, I teach the following course(s): __MATH 1780__ (Probability models).
 
 ## Past semesters at UNT
-- MATH 1780 (Fall 2024, Spring 2025)
+I taught the following courses at the University of North Texas:
+- Probability models (Fall 2024, Spring 2025)
 
 ## Past semesters at BME
 I have been an instructor for the following courses at Budapest University of Technology and Economics:
