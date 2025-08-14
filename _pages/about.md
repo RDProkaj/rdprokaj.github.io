@@ -17,4 +17,4 @@ My field of research is Fractal Geometry. A set is called a fractal if it has a 
 
 __Email__: Rudolf "dot" Prokaj "at" unt "dot" edu 
 
-__Office__: General Academic Building 469
+__Office__: General Academic Building 410
