@@ -28,3 +28,9 @@ I have been an instructor for the following courses at Budapest University of Te
 - Calculus II (Spring 2019, Spring 2020, Spring 2021)
 - Calculus I (Fall 2018)
 - Introductory Mathematics (Fall 2023)
+
+## Advising
+- Miguel Gonzalez-Carriedo, UNT, Spring 2026
+- Jonathan Leung, UNT, Spring 2026
+    - Honors Thesis: Shifted Lévy's Dragon Curve and Directed Graph
+
